@@ -142,7 +142,7 @@ rouge-score==0.0.4
 rsa==4.8
 s3transfer==0.6.0
 sacremoses==0.0.53
-scikit-learn==1.1.1
+scikit-learn==1.0.2
 scipy==1.8.1
 Send2Trash 
 sentencepiece==0.1.96
