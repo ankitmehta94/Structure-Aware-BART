@@ -92,7 +92,7 @@ nest-asyncio
 neuralcoref==4.0
 nltk==3.7
 notebook
-numpy==1.22.4
+numpy==1.21.6
 oauthlib==3.2.0
 packaging
 pandas==1.4.2
